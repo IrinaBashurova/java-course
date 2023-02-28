@@ -1,3 +1,5 @@
+package practical2;
+
 public class SimpleCalculator {
     public double firstNumber;
     public double secondNumber;
