@@ -1,6 +1,11 @@
 package practical2;
 
 public class SimpleCalculator {
+    public SimpleCalculator(double firstNumber, double secondNumber) {
+        this.firstNumber = firstNumber;
+        this.secondNumber = secondNumber;
+    }
+
     public double firstNumber;
     public double secondNumber;
     public double getFirstNumber(){

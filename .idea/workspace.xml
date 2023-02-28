@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f811568-0492-4760-abb7-d9990c915d60" name="Changes" comment="Practice2 - ex.1">
-      <changelist_data name="basurova" email="customhairaccessories@gmail.com" />
+    <list default="true" id="9f811568-0492-4760-abb7-d9990c915d60" name="Changes" comment="Practice2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practical2/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practical2/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practical2/TestCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practical2/TestCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MMkAZo1AKJSXuOAbX7ba4LcpIi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,8 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -71,11 +77,30 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1677589778939</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Practice2 - ex.1">
+      <created>1677590119640</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1677590119640</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Practice2">
+      <created>1677590209935</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1677590209935</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Practice2">
+      <created>1677590303880</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1677590303880</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practice2 - ex.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice2 - ex.1" />
+    <MESSAGE value="Practice2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice2" />
   </component>
 </project>
